@@ -6,12 +6,15 @@
 
 <script>
 export default {
-  name: 'newTitle',
+
 }
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+template{
+  background-color: orange;
+}
 h1 {
   color: lime;
 }
